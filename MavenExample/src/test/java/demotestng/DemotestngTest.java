@@ -13,6 +13,7 @@ public class DemotestngTest
 	public void simple()
 	{
 		System.out.println("Hi Simple");
+		System.out.println("Hi beauty");
 		
 	}
 }
