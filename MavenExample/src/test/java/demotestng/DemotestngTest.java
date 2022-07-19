@@ -12,6 +12,7 @@ public class DemotestngTest
 	}
 	public void simple()
 	{
+		//good statement
 		System.out.println("Hi Simple");
 		System.out.println("Hi beauty");
 		
