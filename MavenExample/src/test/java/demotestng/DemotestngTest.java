@@ -7,7 +7,7 @@ public class DemotestngTest
 	@Test
 	public void DemoTest()
 	{
-		//good line
+		//good software
 		System.out.println("Hi TYSS");	
 		
 	}
