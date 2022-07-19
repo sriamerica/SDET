@@ -22,6 +22,8 @@ public class Demo1Test
 	@Test
 	public void testcase2()
 	{
-		System.out.println("Hi Dell");
+		System.out.println("Hi India");
+		System.out.println("Hi America");
+
 	}
 }
