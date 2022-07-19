@@ -8,5 +8,11 @@ public class DemotestngTest
 	public void DemoTest()
 	{
 		System.out.println("Hi TYSS");	
+		
+	}
+	public void simple()
+	{
+		System.out.println("Hi Simple");
+		
 	}
 }
