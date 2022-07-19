@@ -8,14 +8,15 @@ public class DemotestngTest
 	public void DemoTest()
 	{
 		//good software
-		System.out.println("Hi TYSS");	
+		System.out.println("Hi Italy");
+		System.out.println("Hi London");
 		
 	}
 	public void simple()
 	{
 		//good statement
-		System.out.println("Hi Simple");
-		System.out.println("Hi beauty");
+		System.out.println("Hi India");
+		System.out.println("Hi America");
 		
 	}
 }
