@@ -2,10 +2,10 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.tyss</groupId>
-	<artifactId>MavenExample</artifactId>
+	<groupId>mavenNia</groupId>
+	<artifactId>mavenmig</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
 	<dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
@@ -27,8 +27,9 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M7</version>
 				<configuration>
-					<suiteXMLFiles>testng1.xml</suiteXMLFiles>
-					</configuration>
+					<suiteXMLFiles>testng.xml</suiteXMLFiles>
+					<suiteXMLFiles>testng3.xml</suiteXMLFiles>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
