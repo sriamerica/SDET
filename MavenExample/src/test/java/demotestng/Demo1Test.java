@@ -7,10 +7,7 @@ public class Demo1Test
 	@Test
 	public void testcase1()
 	{
-		String url=System.getProperty("URL");
-		String browser=System.getProperty("BROWSER");
-		String username=System.getProperty("USERNAME");
-		String pwd=System.getProperty("PASSWORD");
+		
 
 		System.out.println("TYSS---> Test1");
 		System.out.println("URL--->"+ url);
